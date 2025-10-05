@@ -2,7 +2,7 @@
 
 **Tagline:** *Refined. Optimized. Essential.*
 
-**EspackMC** is a meticulously crafted resource pack designed to elevate the fundamental look of **Minecraft Java and Bedrock (Pocket) Editions**. It keeps the classic aesthetic intact while applying a layer of polish, optimization, and clarity.
+**EspackMC** is a meticulously crafted resource pack designed to elevate the fundamental look of **Minecraft Java and Bedrock (Pocket) Editions**. It keeps the classic aesthetic intact while applying a layer of polish, optimization, and clarity. This pack supports Minecraft Java 1.21.7 and Minecraft Bedrock 1.21.70
 
 This pack is built for players who love the familiar vanilla style but crave **cleaner textures**, a less noisy environment, and thoughtful **quality-of-life improvements**.
 
